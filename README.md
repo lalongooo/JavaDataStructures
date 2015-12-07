@@ -8,7 +8,7 @@ A simple implementation of the Stack data structure with its standard methods (`
 
 ##### 2. [Chain] (https://github.com/lalongooo/JavaDataStructures/blob/master/src/com/lalongooo/datastructures/chain/Chain.java#L16)
 This was part of a programming test:
-> Assume you have a chain in your hand, and need to know whish side of the chain is longer. The function must return the constant LEFT, RIGHT or NONE depending of the link of the chain you're holding in your hand.
+> Assume you have a chain in your hand, and need to know which side of the chain is longer. The function must return the constant LEFT, RIGHT or NONE depending of the link of the chain you're holding in your hand.
 
 ##### 3. [Tree Height] (https://github.com/lalongooo/JavaDataStructures/blob/master/src/com/lalongooo/datastructures/treeheight/TreeHeight.java#L3)
 A simple algorithm to calculate the hegiht of a binary tree.
