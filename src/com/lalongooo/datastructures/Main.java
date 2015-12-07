@@ -1,4 +1,4 @@
-package com.xihuani.datastructures;
+package com.lalongooo.datastructures;
 
 public class Main {
 
